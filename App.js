@@ -18,7 +18,7 @@ import { SafeArea } from "./src/components/utility/safe-area.component";
 import { RestaurantsContextProvider } from "./src/services/restaurants/restaurants.context";
 
 const Tab = createBottomTabNavigator();
-//test
+//testd
 
 const TAB_ICON = {
   Restaurants: "md-restaurant",
